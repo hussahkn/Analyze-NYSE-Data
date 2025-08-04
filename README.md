@@ -1,6 +1,6 @@
 # 📊 NYSE Data Analysis & Financial Modeling  
 **Udacity Business Analytics Nanodegree – Project 2**  
-*Completed: November 12, 2021*
+*Completed: August 04, 2025*
 
 ## Project Overview
 
