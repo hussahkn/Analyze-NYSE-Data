@@ -2,7 +2,7 @@
 **Udacity Business Analytics Nanodegree – Project 2**  
 *Completed: November 12, 2021*
 
-## 📁 Project Overview
+## Project Overview
 
 This project is the second in Udacity’s [Business Analytics Nanodegree](https://www.udacity.com/course/business-analytics-nanodegree--nd098) and involves analyzing financial data from the [Kaggle NYSE S&P 500 Dataset](https://www.kaggle.com/datasets/dgawlik/nyse), building an interactive dashboard, and creating a financial forecasting model.
 
@@ -11,7 +11,7 @@ The project demonstrates how to:
 - Support findings with relevant summary statistics and visualizations
 - Create a financial forecast based on different business scenarios
 
-- ## ✅ Project Objectives & Tasks
+## Project Objectives & Tasks
 
 ### Task 1: Summary Analysis & Visualization
 - Explored the dataset and identified key business insights
@@ -31,7 +31,7 @@ The project demonstrates how to:
   - Base Case
 - Forecasted metrics such as Gross Profit and EBIT using custom growth/margin assumptions
 
-- ## Skills Applied
+## Skills Applied
 - Summary Statistics & Descriptive Analytics
 - Excel Logic & Formulas
 - Dashboard Design
